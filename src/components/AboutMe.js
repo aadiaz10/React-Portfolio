@@ -6,7 +6,7 @@ function AboutMe() {
     <section>
       <h2>About Me</h2>
       <img src={developerPhoto} alt="Developer" />
-      <p>Short bio about the developer...</p>
+      <p>I am a developer looking to go into Full Stack Development</p>
     </section>
   );
 }

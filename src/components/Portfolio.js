@@ -3,12 +3,12 @@ import Project from './Project';
 
 const projects = [
   {
-    title: 'Project 1',
+    title: 'Project 4',
     imageUrl: '../assets/project1.jpg',
-    deployedLink: 'https://deployed-link1.com',
-    repoLink: 'https://github.com/repo1',
+    deployedLink: 'https://aadiaz10.github.io/Task-Board/ ',
+    repoLink: 'https://github.com/aadiaz10/Task-Board',
   },
-  // Add 5 more projects here
+
 ];
 
 function Portfolio() {

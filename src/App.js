@@ -25,7 +25,7 @@ function App() {
   return (
     <div>
       <Header currentSection={currentSection} setCurrentSection={setCurrentSection} />
-      {renderSection()}
+      <main>{renderSection()}</main>
       <Footer />
     </div>
   );

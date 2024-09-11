@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  publicDir: 'public', // Ensures public directory is used
+  publicDir: 'public', // Ensure Vite looks for static files in the public directory
 });
